@@ -1,7 +1,7 @@
-import 'package:lab/main.dart';
+import 'package:counter_7/main.dart';
 import 'package:flutter/material.dart';
-import 'package:lab/model_data.dart';
-import 'package:lab/form.dart';
+import 'package:counter_7/model.dart';
+import 'package:counter_7/form.dart';
 
 
 class MyDataPage extends StatefulWidget {
